@@ -77,6 +77,3 @@ User confirmed the login was **not authorized**.
 
 ---
 
-## 📸 Evidence Screenshots
-
-Available under:
